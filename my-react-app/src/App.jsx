@@ -74,6 +74,11 @@ export default function CV() {
           </Typography>
 
           <Chip label="Python" color="success" variant="filled" />
+          <Chip label="JavaScript" color="success" variant="filled" />
+          <Chip label="C++" color="success" variant="filled" />
+          <Chip label="HTML" color="success" variant="filled" />
+          <Chip label="CSS" color="success" variant="filled" />
+          <Chip label="RStudio" color="success" variant="filled" />
         </CardContent>
       </Card>
 
@@ -142,7 +147,7 @@ export default function CV() {
             <li>AI Chatbot using LLM API</li>
             <li>LLM-based API Gateway</li>
             <li>AI-driven Web Application</li>
-            <li>Vector Database (Pinecone / Chroma)</li>
+            <li>Vector Database</li>
             <li>Machine Learning Classification & Regression models</li>
             <li>Facebook Clone (MERN Stack) — full-stack social media application</li>
           </ul>
