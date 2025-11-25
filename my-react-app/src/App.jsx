@@ -54,6 +54,7 @@ export default function CV() {
               "Model Evaluation / Metric Analysis",
               "LLM Integration",
               "RAG Systems",
+              "Multi agents architecture",
               "Semantic Chunking",
               "Vector Databases",
               "Embedding Pipelines",
@@ -69,7 +70,7 @@ export default function CV() {
       {/* SKILLS - PROGRAMMING */}
       <Card sx={{ mb: 4, borderRadius: 4, boxShadow: 3 }}>
         <CardContent>
-          <Typography variant="h5" mb={2} fontWeight={700} display="flex" alignItems="center">
+          <Typography variant="h5" mb={2} fontWeight={700} display="flex" alignItems="center" >
             <CodeIcon sx={{ mr: 1 }} /> Programming Languages
           </Typography>
 
